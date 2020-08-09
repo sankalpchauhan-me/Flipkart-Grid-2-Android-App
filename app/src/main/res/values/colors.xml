@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2b6bd9</color>
+    <color name="colorPrimaryDark">#0041a7</color>
+    <color name="colorAccent">#6e98ff</color>
+    <color name="light_gold">#FBE6C4</color>
+    <color name="white">#fff</color>
+    <color name="gold">#DAA147</color>
+    <color name="black">#000</color>
+    <color name="bgaccount">#fff</color>
+    <color name="ltgray">#EFEFEF</color>
+    <color name="gray">#808080</color>
+    <color name="brick">#FF3131</color>
+    <color name="success_green">#4BB543</color>
+    <color name="warningyellow">#e1ad01</color>
+    <color name="red">#FF2C2C</color>
+    <color name="blue">#007BFE</color>
+    <color name="system_background">#E5E5E5</color>
+    <color name="yellow">#e1ad01</color>
+    <color name="cell_background_color">#ffffff</color>
+    <color name="header_line_color">#0a0a0a</color>
+    <color name="table_view_default_text_color">#0a0a0a</color>
+</resources>

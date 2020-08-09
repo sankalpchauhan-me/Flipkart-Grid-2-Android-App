@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Flipkart</string>
+    <string name="everything_on_your_fingertips_few_clicks_here_few_clicks_there_and_we_are_ready_to_go_let_us_worry_about_complicated_stuff">Everything on your fingertips, few clicks here, few clicks there and we are ready to go. Let US worry about complicated stuff!!.</string>
+    <string name="your_invoices_are_safe_with_us_all_the_time_loose_one_no_worries_we_got_your_back_say_bye_to_paper_invoices_the_trees_will_thank_you_too">Your Invoices are safe with us all the time, loose one. No worries, We got your back! Say Bye to paper invoices. The trees will thank you too!!</string>
+    <string name="invoices_anytime_anywhere">Invoices Anytime Anywhere!</string>
+    <string name="detailed_analytics">Detailed Analytics</string>
+    <string name="let_us_do_the_work_you_just_chillax_with_precision_analytics_about_each_invoice_we_got_you_covered_on_the_analytics_department">Let us do the work, you just chillax! With precision analytics about each invoice we got you covered on the analytics department.</string>
+    <string name="click_amp_see_magic"><![CDATA[Click & See Magic!]]></string>
+    <string name="just_click_a_picture_and_see_the_magic">Just click a picture and See the Magic!</string>
+    <string name="skip">Skip</string>
+    <string name="enter_your_e_mail">E-mail</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="experience_easy_invoicing">Experience Easy Invoicing</string>
+    <string name="password">Password</string>
+    <string name="or_create_an_account">Or create an account</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
